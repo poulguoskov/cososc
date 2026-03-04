@@ -8,6 +8,7 @@ dependencies = [
     "bs4>=0.0.2",
     "joblib>=1.5.3",
     "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
     "pandas>=3.0.1",
     "rapidfuzz>=3.14.3",
     "requests>=2.32.5",
