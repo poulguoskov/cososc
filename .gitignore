@@ -10,3 +10,5 @@ wheels/
 .venv
 
 .DS_store
+
+exercises/week7_abstracts_tokenized.json

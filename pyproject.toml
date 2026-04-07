@@ -11,9 +11,11 @@ dependencies = [
     "matplotlib>=3.10.8",
     "networkx==3.3",
     "netwulf>=0.1.5",
+    "nltk>=3.9.4",
     "pandas>=3.0.1",
     "python-louvain>=0.16",
     "rapidfuzz>=3.14.3",
     "requests>=2.32.5",
+    "scipy>=1.17.1",
     "tqdm>=4.67.3",
 ]
