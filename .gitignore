@@ -9,4 +9,4 @@ wheels/
 # Virtual environments
 .venv
 
-.DS_store
+.DS_storedata/week7_abstracts_tokenized.json
