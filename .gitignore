@@ -12,3 +12,7 @@ wheels/
 .DS_store
 
 exercises/week7_abstracts_tokenized.json
+
+project/data/*.tsv
+project/cache/
+.env

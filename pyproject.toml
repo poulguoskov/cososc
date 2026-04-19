@@ -13,6 +13,7 @@ dependencies = [
     "netwulf>=0.1.5",
     "nltk>=3.9.4",
     "pandas>=3.0.1",
+    "python-dotenv>=1.2.2",
     "python-louvain>=0.16",
     "rapidfuzz>=3.14.3",
     "requests>=2.32.5",
